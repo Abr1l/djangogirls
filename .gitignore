@@ -3,3 +3,4 @@ __pycache__
 myvenv
 db.sqlite3
 .DS_Store
+objetos a importar en consola interativa de django
